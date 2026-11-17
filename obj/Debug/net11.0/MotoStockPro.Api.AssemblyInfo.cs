@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MotoStockPro.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6baeb486aef339a53e66ab4b2865da84ec33f51f")]
 [assembly: System.Reflection.AssemblyProductAttribute("MotoStockPro.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MotoStockPro.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

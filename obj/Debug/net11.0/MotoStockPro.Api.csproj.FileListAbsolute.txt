@@ -11,6 +11,7 @@ C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\MotoStockPro.Api.Ass
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\MotoStockPro.Api.csproj.CoreCompileInputs.cache
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\MotoStockPro.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\MotoStockPro.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\MotoStockPro.Api.sourcelink.json
 C:\Users\rodri\Downloads\MotoStockPro.Api\bin\Debug\net11.0\appsettings.Development.json
 C:\Users\rodri\Downloads\MotoStockPro.Api\bin\Debug\net11.0\appsettings.json
 C:\Users\rodri\Downloads\MotoStockPro.Api\bin\Debug\net11.0\MotoStockPro.Api.staticwebassets.runtime.json
@@ -102,7 +103,7 @@ C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\jsmodules\jsmodules.
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\scopedcss\scopedcss.cache
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\scopedcss\bundle\MotoStockPro.Api.styles.css
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\compressed\v90i9ii1ka-{0}-tchfgznwy8-tchfgznwy8.gz
-C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\compressed\pv81tq7f4e-{0}-1hwhbdq0vr-1hwhbdq0vr.gz
+C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\compressed\pv81tq7f4e-{0}-jjvi8s0nnv-jjvi8s0nnv.gz
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\compressed\0lldy0s4fx-{0}-v1vy2to33n-v1vy2to33n.gz
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\compressed\268brm4oh7-{0}-ysew0n4kjn-ysew0n4kjn.gz
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\staticwebassets.build.json
@@ -116,3 +117,4 @@ C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\refint\MotoStockPro.
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\MotoStockPro.Api.pdb
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\MotoStockPro.Api.genruntimeconfig.cache
 C:\Users\rodri\Downloads\MotoStockPro.Api\obj\Debug\net11.0\ref\MotoStockPro.Api.dll
+C:\Users\rodri\Downloads\MotoStockPro.Api\bin\Debug\net11.0\Scalar.AspNetCore.dll

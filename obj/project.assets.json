@@ -442,6 +442,22 @@
           }
         }
       },
+      "Scalar.AspNetCore/3.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net11.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net11.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "System.CodeDom/4.4.0": {
         "type": "package",
         "compile": {
@@ -1225,6 +1241,23 @@
         "pomelo.entityframeworkcore.mysql.nuspec"
       ]
     },
+    "Scalar.AspNetCore/3.0.0": {
+      "sha512": "UvDaK9ZRfGrdOUUcEqZNZ/YnVPcn2C4GiwRxYnsyhsdlTKH9Zqr8/jCOLSNBxhZQ7Te8ldm5a5zbr/reL0WhYg==",
+      "type": "package",
+      "path": "scalar.aspnetcore/3.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net10.0/Scalar.AspNetCore.dll",
+        "lib/net10.0/Scalar.AspNetCore.xml",
+        "lib/net11.0/Scalar.AspNetCore.dll",
+        "lib/net11.0/Scalar.AspNetCore.xml",
+        "scalar.aspnetcore.3.0.0.nupkg.sha512",
+        "scalar.aspnetcore.nuspec"
+      ]
+    },
     "System.CodeDom/4.4.0": {
       "sha512": "2sCCb7doXEwtYAbqzbF/8UAeDRMNmPaQbU2q50Psg1J9KzumyVVCgKQY8s53WIPTufNT0DpSe9QRvVjOzfDWBA==",
       "type": "package",
@@ -1383,7 +1416,8 @@
     "net11.0": [
       "Microsoft.AspNetCore.OpenApi >= 11.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.2",
-      "Pomelo.EntityFrameworkCore.MySql >= 8.0.2"
+      "Pomelo.EntityFrameworkCore.MySql >= 8.0.2",
+      "Scalar.AspNetCore >= 3.0.0"
     ]
   },
   "packageFolders": {
@@ -1446,6 +1480,10 @@
           "Pomelo.EntityFrameworkCore.MySql": {
             "target": "Package",
             "version": "[8.0.2, )"
+          },
+          "Scalar.AspNetCore": {
+            "target": "Package",
+            "version": "[3.0.0, )"
           }
         },
         "imports": [

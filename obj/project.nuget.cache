@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "u6Oe2tEXBQk=",
+  "dgSpecHash": "Mf5rcy7JRBg=",
   "success": true,
   "projectFilePath": "C:\\Users\\rodri\\Downloads\\MotoStockPro.Api\\MotoStockPro.Api.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\rodri\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\mysqlconnector\\2.3.5\\mysqlconnector.2.3.5.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\8.0.2\\pomelo.entityframeworkcore.mysql.8.0.2.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\scalar.aspnetcore\\3.0.0\\scalar.aspnetcore.3.0.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
     "C:\\Users\\rodri\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
