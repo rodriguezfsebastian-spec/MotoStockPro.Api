@@ -1,0 +1,11 @@
+@MotoStockPro.Api_HostAddress = http://localhost:5078
+
+GET {{MotoStockPro.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{MotoStockPro.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
